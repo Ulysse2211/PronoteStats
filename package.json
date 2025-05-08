@@ -1,10 +1,10 @@
 {
-  "name": "nuxt-ui-pro-starter",
+  "name": "pronote-stats",
   "private": true,
   "type": "module",
   "scripts": {
-    "build": "python license.py && nuxt build",
-    "dev": "python license.py && nuxt dev",
+    "build": "python licensenuxtuipro.py && nuxt build",
+    "dev": "python licensenuxtuipro.py && nuxt dev",
     "generate": "nuxt generate",
     "preview": "nuxt preview",
     "postinstall": "nuxt prepare",
