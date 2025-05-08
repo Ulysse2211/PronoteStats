@@ -1,0 +1,4 @@
+{
+  "allowImportingTsExtensions": true,
+  "extends": "../.nuxt/tsconfig.server.json"
+}

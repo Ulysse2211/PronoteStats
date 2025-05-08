@@ -1,0 +1,36 @@
+{
+  "name": "nuxt-ui-pro-starter",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "build": "python license.py && nuxt build",
+    "dev": "python license.py && nuxt dev",
+    "generate": "nuxt generate",
+    "preview": "nuxt preview",
+    "postinstall": "nuxt prepare",
+    "lint": "eslint .",
+    "typecheck": "nuxt typecheck"
+  },
+  "dependencies": {
+    "@compodium/nuxt": "0.1.0-beta.8",
+    "@iconify-json/lucide": "^1.2.34",
+    "@iconify-json/simple-icons": "^1.2.30",
+    "@nuxt/ui-pro": "^3.0.2",
+    "echarts": "^5.6.0",
+    "nuxt": "^3.16.2",
+    "nuxt-echarts": "0.3.0",
+    "pawnote": "^1.4.1",
+    "vue-echarts": "^7.0.3"
+  },
+  "devDependencies": {
+    "@nuxt/eslint": "^1.3.0",
+    "eslint": "^9.23.0",
+    "typescript": "^5.8.2",
+    "vue-tsc": "^2.2.2"
+  },
+  "resolutions": {
+    "unimport": "4.1.1",
+    "vue-tsc": "2.2.2"
+  },
+  "packageManager": "pnpm@10.7.0"
+}

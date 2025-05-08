@@ -1,0 +1,194 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="Calque_1" xmlns="http://www.w3.org/2000/svg" version="1.1" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 510 510">
+  <!-- Generator: Adobe Illustrator 29.2.1, SVG Export Plug-In . SVG Version: 2.1.0 Build 116)  -->
+  <defs>
+    <style>
+      .st0 {
+        fill: url(#Dégradé_sans_nom_175);
+        stroke: url(#Dégradé_sans_nom_1371);
+      }
+
+      .st0, .st1, .st2, .st3, .st4, .st5, .st6, .st7, .st8, .st9, .st10, .st11, .st12, .st13, .st14, .st15, .st16, .st17, .st18, .st19, .st20, .st21 {
+        stroke-miterlimit: 10;
+      }
+
+      .st0, .st3 {
+        stroke-width: 2px;
+      }
+
+      .st1 {
+        stroke: url(#Dégradé_sans_nom_13718);
+      }
+
+      .st1, .st2, .st5, .st6, .st7, .st8, .st9, .st10, .st11, .st12, .st14, .st15, .st16, .st18, .st19, .st20 {
+        fill: #ff0042;
+      }
+
+      .st2 {
+        stroke: url(#Dégradé_sans_nom_1373);
+      }
+
+      .st3 {
+        fill: url(#Dégradé_sans_nom_1751);
+        stroke: url(#Dégradé_sans_nom_13712);
+      }
+
+      .st4 {
+        fill: url(#Dégradé_sans_nom_170);
+        stroke: url(#Dégradé_sans_nom_1372);
+      }
+
+      .st5 {
+        stroke: url(#Dégradé_sans_nom_1379);
+      }
+
+      .st6 {
+        stroke: url(#Dégradé_sans_nom_13716);
+      }
+
+      .st7 {
+        stroke: url(#Dégradé_sans_nom_13715);
+      }
+
+      .st8 {
+        stroke: url(#Dégradé_sans_nom_13714);
+      }
+
+      .st9 {
+        stroke: url(#Dégradé_sans_nom_1378);
+      }
+
+      .st10 {
+        stroke: url(#Dégradé_sans_nom_13720);
+      }
+
+      .st11 {
+        stroke: url(#Dégradé_sans_nom_1376);
+      }
+
+      .st12 {
+        stroke: url(#Dégradé_sans_nom_1374);
+      }
+
+      .st13 {
+        fill: url(#Dégradé_sans_nom_2491);
+        stroke: url(#Dégradé_sans_nom_13711);
+      }
+
+      .st13, .st21 {
+        stroke-width: 5px;
+      }
+
+      .st14 {
+        stroke: url(#Dégradé_sans_nom_1375);
+      }
+
+      .st15 {
+        stroke: url(#Dégradé_sans_nom_1377);
+      }
+
+      .st16 {
+        stroke: url(#Dégradé_sans_nom_13721);
+      }
+
+      .st17 {
+        fill: url(#Dégradé_sans_nom_1701);
+        stroke: url(#Dégradé_sans_nom_13713);
+      }
+
+      .st18 {
+        stroke: url(#Dégradé_sans_nom_13710);
+      }
+
+      .st19 {
+        stroke: url(#Dégradé_sans_nom_13717);
+      }
+
+      .st20 {
+        stroke: url(#Dégradé_sans_nom_13719);
+      }
+
+      .st21 {
+        fill: url(#Dégradé_sans_nom_249);
+        stroke: url(#Dégradé_sans_nom_137);
+      }
+    </style>
+    <radialGradient id="Dégradé_sans_nom_249" data-name="Dégradé sans nom 249" cx="121" cy="259.7" fx="121" fy="259.7" r="168.7" gradientTransform="translate(-9.3 -237.9) rotate(-.9) scale(1 1.9) skewX(0)" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#ff0029"/>
+      <stop offset=".1" stop-color="#f40026"/>
+      <stop offset=".3" stop-color="#d80020"/>
+      <stop offset=".6" stop-color="#ab0015"/>
+      <stop offset=".9" stop-color="#6d0007"/>
+      <stop offset="1" stop-color="#4f0000"/>
+    </radialGradient>
+    <linearGradient id="Dégradé_sans_nom_137" data-name="Dégradé sans nom 137" x1="-5.3" y1="259.7" x2="243.7" y2="259.7" gradientTransform="translate(17.8 -7.1) rotate(3.6)" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#000"/>
+      <stop offset=".7" stop-color="#450000"/>
+      <stop offset="1" stop-color="#630000"/>
+    </linearGradient>
+    <linearGradient id="Dégradé_sans_nom_175" data-name="Dégradé sans nom 175" x1="-1.1" y1="207.2" x2="155.7" y2="207.2" gradientTransform="translate(17.8 -7.1) rotate(3.6)" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#140000"/>
+      <stop offset=".3" stop-color="#430000"/>
+      <stop offset=".8" stop-color="#7e0000"/>
+      <stop offset="1" stop-color="#960000"/>
+    </linearGradient>
+    <linearGradient id="Dégradé_sans_nom_1371" data-name="Dégradé sans nom 137" x1="-2.5" y1="207.7" x2="177.6" y2="207.7" xlink:href="#Dégradé_sans_nom_137"/>
+    <linearGradient id="Dégradé_sans_nom_170" data-name="Dégradé sans nom 170" x1="75.9" y1="360.5" x2="240.9" y2="360.5" gradientTransform="translate(17.8 -7.1) rotate(3.6)" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#140000"/>
+      <stop offset="1" stop-color="#960000"/>
+    </linearGradient>
+    <linearGradient id="Dégradé_sans_nom_1372" data-name="Dégradé sans nom 137" x1="73.9" y1="360.7" x2="241.4" y2="360.7" xlink:href="#Dégradé_sans_nom_137"/>
+    <linearGradient id="Dégradé_sans_nom_1373" data-name="Dégradé sans nom 137" x1="138.3" y1="298.3" x2="148" y2="298.3" xlink:href="#Dégradé_sans_nom_137"/>
+    <linearGradient id="Dégradé_sans_nom_1374" data-name="Dégradé sans nom 137" x1="169.6" y1="250.1" x2="179.4" y2="250.1" xlink:href="#Dégradé_sans_nom_137"/>
+    <linearGradient id="Dégradé_sans_nom_1375" data-name="Dégradé sans nom 137" x1="-6.4" y1="116.2" x2="3.4" y2="116.2" xlink:href="#Dégradé_sans_nom_137"/>
+    <linearGradient id="Dégradé_sans_nom_1376" data-name="Dégradé sans nom 137" x1="236" y1="259.8" x2="245.8" y2="259.8" xlink:href="#Dégradé_sans_nom_137"/>
+    <linearGradient id="Dégradé_sans_nom_1377" data-name="Dégradé sans nom 137" x1="73" y1="456.4" x2="82.8" y2="456.4" xlink:href="#Dégradé_sans_nom_137"/>
+    <linearGradient id="Dégradé_sans_nom_1378" data-name="Dégradé sans nom 137" x1="59" y1="441.9" x2="68.8" y2="441.9" xlink:href="#Dégradé_sans_nom_137"/>
+    <linearGradient id="Dégradé_sans_nom_1379" data-name="Dégradé sans nom 137" x1="-6.4" y1="78.2" x2="3.4" y2="78.2" xlink:href="#Dégradé_sans_nom_137"/>
+    <linearGradient id="Dégradé_sans_nom_13710" data-name="Dégradé sans nom 137" x1="12.9" y1="61" x2="22.7" y2="61" xlink:href="#Dégradé_sans_nom_137"/>
+    <radialGradient id="Dégradé_sans_nom_2491" data-name="Dégradé sans nom 249" cx="35.7" cy="263.8" fx="35.7" fy="263.8" r="168.7" gradientTransform="translate(432.3 -248.3) rotate(-179.1) scale(1 -1.9) skewX(0)" xlink:href="#Dégradé_sans_nom_249"/>
+    <linearGradient id="Dégradé_sans_nom_13711" data-name="Dégradé sans nom 137" x1="-90.4" y1="263.7" x2="158.6" y2="263.7" gradientTransform="translate(406.4 -7.1) rotate(176.4) scale(1 -1)" xlink:href="#Dégradé_sans_nom_137"/>
+    <linearGradient id="Dégradé_sans_nom_1751" data-name="Dégradé sans nom 175" x1="-86.2" y1="211.2" x2="70.6" y2="211.2" gradientTransform="translate(406.4 -7.1) rotate(176.4) scale(1 -1)" xlink:href="#Dégradé_sans_nom_175"/>
+    <linearGradient id="Dégradé_sans_nom_13712" data-name="Dégradé sans nom 137" x1="-87.6" y1="211.7" x2="92.5" y2="211.7" gradientTransform="translate(406.4 -7.1) rotate(176.4) scale(1 -1)" xlink:href="#Dégradé_sans_nom_137"/>
+    <linearGradient id="Dégradé_sans_nom_1701" data-name="Dégradé sans nom 170" x1="-9.2" y1="364.5" x2="155.8" y2="364.5" gradientTransform="translate(406.4 -7.1) rotate(176.4) scale(1 -1)" xlink:href="#Dégradé_sans_nom_170"/>
+    <linearGradient id="Dégradé_sans_nom_13713" data-name="Dégradé sans nom 137" x1="-11.2" y1="364.7" x2="156.3" y2="364.7" gradientTransform="translate(406.4 -7.1) rotate(176.4) scale(1 -1)" xlink:href="#Dégradé_sans_nom_137"/>
+    <linearGradient id="Dégradé_sans_nom_13714" data-name="Dégradé sans nom 137" x1="53.2" y1="302.3" x2="62.9" y2="302.3" gradientTransform="translate(406.4 -7.1) rotate(176.4) scale(1 -1)" xlink:href="#Dégradé_sans_nom_137"/>
+    <linearGradient id="Dégradé_sans_nom_13715" data-name="Dégradé sans nom 137" x1="84.5" y1="254.1" x2="94.3" y2="254.1" gradientTransform="translate(406.4 -7.1) rotate(176.4) scale(1 -1)" xlink:href="#Dégradé_sans_nom_137"/>
+    <linearGradient id="Dégradé_sans_nom_13716" data-name="Dégradé sans nom 137" x1="-91.5" y1="120.2" x2="-81.7" y2="120.2" gradientTransform="translate(406.4 -7.1) rotate(176.4) scale(1 -1)" xlink:href="#Dégradé_sans_nom_137"/>
+    <linearGradient id="Dégradé_sans_nom_13717" data-name="Dégradé sans nom 137" x1="150.9" y1="263.8" x2="160.7" y2="263.8" gradientTransform="translate(406.4 -7.1) rotate(176.4) scale(1 -1)" xlink:href="#Dégradé_sans_nom_137"/>
+    <linearGradient id="Dégradé_sans_nom_13718" data-name="Dégradé sans nom 137" x1="-12.1" y1="460.4" x2="-2.3" y2="460.4" gradientTransform="translate(406.4 -7.1) rotate(176.4) scale(1 -1)" xlink:href="#Dégradé_sans_nom_137"/>
+    <linearGradient id="Dégradé_sans_nom_13719" data-name="Dégradé sans nom 137" x1="-26.1" y1="445.9" x2="-16.3" y2="445.9" gradientTransform="translate(406.4 -7.1) rotate(176.4) scale(1 -1)" xlink:href="#Dégradé_sans_nom_137"/>
+    <linearGradient id="Dégradé_sans_nom_13720" data-name="Dégradé sans nom 137" x1="-91.5" y1="82.2" x2="-81.7" y2="82.2" gradientTransform="translate(406.4 -7.1) rotate(176.4) scale(1 -1)" xlink:href="#Dégradé_sans_nom_137"/>
+    <linearGradient id="Dégradé_sans_nom_13721" data-name="Dégradé sans nom 137" x1="-72.2" y1="65" x2="-62.4" y2="65" gradientTransform="translate(406.4 -7.1) rotate(176.4) scale(1 -1)" xlink:href="#Dégradé_sans_nom_137"/>
+  </defs>
+  <g id="Calque_2">
+    <g id="Calque_1-2">
+      <path class="st21" d="M9.7,77.9l-.7,24.3c-1.8,76.3,40,147.3,107.5,185.8h.1c0,0,6.7,3.6,17,8.8,2.1.9,4.3,1.9,6.4,2.8-6.6,2.5-13,5.3-19.2,8.7-40.8,22.3-66.3,63.5-67.5,108.8l-.4,12.3c-.6,15.4,12,28.4,28.1,29.1h.2s12.4.4,12.4.4c53.1,2.1,101.9-25.7,125.6-70.5h0s32-53.8,18-162.3h0c-6.4-93.3-85.8-168.6-184.2-172.3l-16-.6c-14.7-.6-26.9,10.3-27.4,24.6Z"/>
+      <path class="st0" d="M140.1,299.4c17.7-9.4,40.8-25.7,37.8-46.4,0,0-160.1-4.8-168.9-144.3,0,0-4.1,130,124.5,187.8l4.9,2.2,1.6.7Z"/>
+      <path class="st4" d="M240.3,267.5c-4.5,29.1-36.6,194.8-175.2,185.6.7.4,1.3.8,2,1.2l.8.5c.5.3,1,.5,1.5.8l.8.4c.6.3,1.4.5,2.1.8h.3c.9.4,1.7.6,2.4.9.3,0,.6,0,.8.1.7.2,1.3.3,1.9.4h.8c.8.3,1.8.4,2.6.4h.2s12.4.4,12.4.4c8.2.3,16.4-.1,24.5-1.2,6.3-.9,12.6-2.1,18.8-3.9,3.1-.9,6.1-1.9,9.1-2.9,5.9-2.2,11.7-4.6,17.3-7.6,1.9-.9,3.7-2,5.6-3.1,5.2-3,10.1-6.3,14.8-9.9,1.5-1.2,3-2.5,4.6-3.8,4-3.5,8-7.3,11.7-11.2.1,0,.2-.2.4-.4,7.3-8,13.6-17,18.7-26.6,0,0,0-.2.2-.4v-.2c.2-.2.2-.4.3-.5q0,0,.1-.3c0-.2.2-.4.3-.7,0,0,0,0,0-.2.2-.2.3-.5.5-.9h0c5.3-10.8,21.8-50,19.4-117.9Z"/>
+    </g>
+    <ellipse class="st2" cx="142" cy="299.6" rx="4.4" ry="4.4"/>
+    <ellipse class="st12" cx="176.3" cy="253.5" rx="4.4" ry="4.4"/>
+    <ellipse class="st14" cx="9" cy="108.8" rx="4.4" ry="4.4"/>
+    <ellipse class="st11" cx="242" cy="267.2" rx="4.4" ry="4.4"/>
+    <ellipse class="st15" cx="67" cy="453.3" rx="4.4" ry="4.4"/>
+    <ellipse class="st9" cx="54" cy="437.9" rx="4.4" ry="4.4"/>
+    <ellipse class="st5" cx="11.4" cy="70.9" rx="4.4" ry="4.4"/>
+    <ellipse class="st18" cx="31.7" cy="54.9" rx="4.4" ry="4.4"/>
+  </g>
+  <g id="Calque_21" data-name="Calque_2">
+    <g id="Calque_1-21" data-name="Calque_1-2">
+      <path class="st13" d="M472.2,52l-16,.6c-98.4,3.7-177.8,78.9-184.2,172.3h0c-14,108.5,18,162.3,18,162.3h0c23.7,44.8,72.5,72.6,125.6,70.5l12.4-.4h.2c16-.7,28.6-13.7,28.1-29.1l-.4-12.3c-1.2-45.4-26.7-86.5-67.5-108.8-6.2-3.4-12.6-6.3-19.2-8.7,2.1-.9,4.3-1.9,6.4-2.8,10.2-5.2,17-8.8,17-8.8h.1c67.6-38.4,109.3-109.4,107.5-185.7l-.7-24.3c-.5-14.3-12.8-25.2-27.4-24.6Z"/>
+      <path class="st3" d="M370.8,297.4l4.9-2.2c128.7-57.8,124.5-187.8,124.5-187.8-8.7,139.5-168.9,144.3-168.9,144.3-3,20.6,20.1,37,37.8,46.4l1.6-.7Z"/>
+      <path class="st17" d="M288.5,384.1h0c.2.5.3.7.5,1,0,0,0,.2,0,.2.1.3.2.5.3.7q0,.2.1.3c0,0,.1.3.2.5v.2c.2.2.2.4.2.4,5,9.6,11.3,18.5,18.7,26.6.2.1.3.3.4.4,3.7,4,7.7,7.8,11.7,11.2,1.6,1.3,3.1,2.5,4.6,3.8,4.7,3.6,9.6,6.9,14.8,9.9,1.9,1.1,3.7,2.2,5.6,3.1,5.6,2.9,11.4,5.4,17.3,7.6,3,1,6,2.1,9.1,2.9,6.2,1.7,12.5,3,18.8,3.9,8.1,1.1,16.3,1.5,24.5,1.2l12.4-.4h.2c.9,0,1.8-.1,2.6-.3h.8c.6-.2,1.2-.3,1.9-.5.2,0,.5-.1.8-.1.8-.2,1.6-.5,2.4-.7h.3c.6-.4,1.4-.6,2.1-.9l.8-.4c.6-.2,1-.5,1.5-.8l.8-.5c.7-.4,1.3-.8,2-1.2-138.7,9.1-170.7-156.5-175.2-185.6-2.3,68,14.1,107.1,19.4,117.9Z"/>
+    </g>
+    <ellipse class="st8" cx="367.3" cy="298.3" rx="4.4" ry="4.4"/>
+    <ellipse class="st7" cx="333" cy="252.2" rx="4.4" ry="4.4"/>
+    <ellipse class="st6" cx="500.3" cy="107.5" rx="4.4" ry="4.4"/>
+    <ellipse class="st19" cx="267.3" cy="265.9" rx="4.4" ry="4.4"/>
+    <ellipse class="st1" cx="442.3" cy="452" rx="4.4" ry="4.4"/>
+    <ellipse class="st20" cx="455.3" cy="436.6" rx="4.4" ry="4.4"/>
+    <ellipse class="st10" cx="497.9" cy="69.6" rx="4.4" ry="4.4"/>
+    <ellipse class="st16" cx="477.6" cy="53.6" rx="4.4" ry="4.4"/>
+  </g>
+</svg>
