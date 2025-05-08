@@ -16,6 +16,7 @@
     "@iconify-json/lucide": "^1.2.34",
     "@iconify-json/simple-icons": "^1.2.30",
     "@nuxt/ui-pro": "^3.0.2",
+    "@vercel/analytics": "^1.5.0",
     "echarts": "^5.6.0",
     "nuxt": "^3.16.2",
     "nuxt-echarts": "0.3.0",

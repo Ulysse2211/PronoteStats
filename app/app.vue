@@ -1,4 +1,5 @@
 <script setup>
+import { Analytics } from '@vercel/analytics/nuxt'
 import { modalDeleteAllOpen } from '~/sharedHelper'
 import { ClearAllAccounts } from "~/accountHelper";
 import { logclient } from "../utils";
@@ -34,6 +35,7 @@ useSeoMeta({
 </script>
 
 <template>
+  <Analytics/>
   <UModal class="absolute z-400" v-model:open="modalDeleteAllOpen">
     <template #content>
       <UCard>
