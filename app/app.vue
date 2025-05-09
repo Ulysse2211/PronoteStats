@@ -1,4 +1,5 @@
 <script setup>
+import { SpeedInsights } from "@vercel/speed-insights/nuxt"
 import { Analytics } from '@vercel/analytics/nuxt'
 import { modalDeleteAllOpen } from '~/sharedHelper'
 import { ClearAllAccounts } from "~/accountHelper";
@@ -36,6 +37,7 @@ useSeoMeta({
 
 <template>
   <Analytics/>
+  <SpeedInsights/>
   <UModal class="absolute z-400" v-model:open="modalDeleteAllOpen">
     <template #content>
       <UCard>

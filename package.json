@@ -3,8 +3,8 @@
   "private": true,
   "type": "module",
   "scripts": {
-    "build": "python licensenuxtuipro.py && nuxt build",
-    "dev": "python licensenuxtuipro.py && nuxt dev",
+    "build": "python3 licensenuxtuipro.py && nuxt build",
+    "dev": "python3 licensenuxtuipro.py && nuxt dev",
     "generate": "nuxt generate",
     "preview": "nuxt preview",
     "postinstall": "nuxt prepare",
@@ -17,6 +17,7 @@
     "@iconify-json/simple-icons": "^1.2.30",
     "@nuxt/ui-pro": "^3.0.2",
     "@vercel/analytics": "^1.5.0",
+    "@vercel/speed-insights": "^1.2.0",
     "echarts": "^5.6.0",
     "nuxt": "^3.16.2",
     "nuxt-echarts": "0.3.0",
