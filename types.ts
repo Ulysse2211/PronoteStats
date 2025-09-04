@@ -259,7 +259,7 @@ export type StatCard = {
 
 export type UserLogin = {
   username: string;
-  password: string;
+  token?: string;
   url: string;
   infos?: {
     name: string;

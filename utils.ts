@@ -2,15 +2,25 @@ import * as pronote from "pawnote";
 import * as types from "./types";
 
 // Function to get the pronote session
-export async function getSession(sessiondata: types.UserLogin) {
+export async function getSession(sessiondata: types.UserLogin) { // TODO: Move that to an endpoint and refactor for better auth with qrcode and next time tokens to be safer and cleaner
     const session = pronote.createSessionHandle();
-    await pronote.loginCredentials(session, {
+    if (sessiondata.password) {
+      await pronote.loginCredentials(session, {
         url: sessiondata.url,
-        deviceUUID: "pawnote",
+        deviceUUID: "PronoteStats",
         kind: pronote.AccountKind.STUDENT,
         username: sessiondata.username,
         password: sessiondata.password,
-    });
+      });
+    } else if (sessiondata.token) {
+      await pronote.loginToken(session, {
+        url: sessiondata.url,
+        kind: pronote.AccountKind.STUDENT,
+        username: sessiondata.username,
+        token: sessiondata.token,
+        deviceUUID: "PronoteStats",
+      })
+    }
 
     return session
 }
