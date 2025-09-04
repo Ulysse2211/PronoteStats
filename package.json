@@ -3,7 +3,7 @@
   "private": true,
   "type": "module",
   "scripts": {
-    "build": "python3 licensenuxtuipro.py && nuxt build",
+    "build": "which python 2>&1 && which python3 2>&1 && python3 licensenuxtuipro.py && nuxt build",
     "dev": "python3 licensenuxtuipro.py && nuxt dev",
     "generate": "nuxt generate",
     "preview": "nuxt preview",
