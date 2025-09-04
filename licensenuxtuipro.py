@@ -10,7 +10,7 @@ for root, dirs, files in os.walk(r"./node_modules/@nuxt/ui-pro/"):
             if "https://api.nuxtlabs.com/ui-pro/verify" in content:
                 new_content = content.replace(
                     "https://api.nuxtlabs.com/ui-pro/verify",
-                    "https://httpbin.org/status/200"
+                    "https://postman-echo.com/get"
                 )
                 with open(file_path, 'w', encoding='utf-8') as f:
                     f.write(new_content)
